@@ -1,3 +1,5 @@
+USE unsupervised_lab;
+
 CREATE TABLE IF NOT EXISTS `wholesale_customers_data` (
     `Channel` INT,
     `Region` INT,
